@@ -4,4 +4,4 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
-https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
+https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
