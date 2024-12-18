@@ -8,7 +8,7 @@
 - 接口源：
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://gh-proxy.com/raw.githubusercontent.com/wuming1988cntv/cntv/master/output/result.txt
 ```
 
 ## 免责声明
