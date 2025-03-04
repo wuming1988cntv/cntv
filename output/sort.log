@@ -106,6 +106,7 @@ Name: 广东卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/561688
 Name: 广东卫视, URL: http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 广东卫视, URL: http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 广东卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014176/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 广东卫视, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 浙江卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007275/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 浙江卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw1549883711_-1309402365/ott.mobaibox.com/PLTV/3/224/3221228204/index.m3u8?icpid=3&RTS=1674385960&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 浙江卫视, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000007275/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
