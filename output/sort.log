@@ -431,6 +431,7 @@ Name: 北京卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/818668
 Name: 北京卫视, URL: http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 北京卫视, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 北京卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225702/2/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 北京卫视, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.china$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 湖北卫视, URL: http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001027/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 湖北卫视, URL: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 湖北卫视, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
